@@ -149,28 +149,8 @@ Negative Review 😞
 
 ---
 
-## 📁 Project Structure
-
-```
-Hotel-Review-Sentiment-Analysis/
-│
-├── Hotel_Reviews.csv
-├── Sentiment_Analysis.ipynb
-├── README.md
-└── requirements.txt
- ---
-
-## 📈 Future Improvements
-
-- Deep Learning using LSTM
-- BERT-based sentiment classification
-- Streamlit Web Application
-- Flask API deployment
-- Multi-class sentiment analysis
-- Aspect-based sentiment analysis
-- Real-time review prediction
-
----
+ 
+ 
 
 ## 🎯 Learning Outcomes
 
