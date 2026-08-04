@@ -158,7 +158,7 @@ Hotel-Review-Sentiment-Analysis/
 ├── Sentiment_Analysis.ipynb
 ├── README.md
 └── requirements.txt
- 
+ ---
 
 ## 📈 Future Improvements
 
@@ -170,6 +170,7 @@ Hotel-Review-Sentiment-Analysis/
 - Aspect-based sentiment analysis
 - Real-time review prediction
 
+---
 
 ## 🎯 Learning Outcomes
 
@@ -182,4 +183,7 @@ This project demonstrates:
 - Logistic Regression
 - Sentiment Analysis
 - Machine Learning Model Evaluation
+
+---
+
 
